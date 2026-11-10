@@ -51,6 +51,8 @@ The test set was also used to pick the best training epoch, so the true accuracy
 - If the top confidence is under 60%, the app shows "unknown" instead of guessing.
 
 ## Screenshots from Mobile (ngrok)
-![Mobile page](screenshots/ss1.jpeg)
-![Happy result](screenshots/ss2.jpeg)
-![Unknown result](screenshots/ss3.jpeg)
+<p>
+  <img src="screenshots/ss1.jpeg" width="250">
+  <img src="screenshots/ss2.jpeg" width="250">
+  <img src="screenshots/ss3.jpeg" width="250">
+</p>
