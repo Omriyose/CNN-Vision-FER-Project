@@ -1,5 +1,5 @@
 # CNN-Vision-FER-Project
-Upload a face image and watch it get classified with one of the 7 emotions the model trained on
+## Upload a face image and watch it get classified with one of the 7 emotions the model trained on!
 
 ## How to run
 ```
